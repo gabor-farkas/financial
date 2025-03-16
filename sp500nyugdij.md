@@ -30,3 +30,4 @@ Hogy ebből az elemzésből milyen következtetések vonhatók le? Hát ez jó k
 ## Hivatkozások
  * Az elemzéshez használt adatok forrása https://datahub.io/core/s-and-p-500
  * A grafikon forrása: https://www.macrotrends.net/2324/sp-500-historical-chart-data
+ * Az adatelemzéshez használt SQL lekérdezés: [query.sql](./query.sql)
