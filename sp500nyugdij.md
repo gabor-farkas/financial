@@ -3,7 +3,7 @@ Több elemzés olvasható az S&P 500 indexről és az ezt követő ETF-ek befekt
 
 Én szerettem volna egy olyan forgatókönyv szerint megvizsgálni a historikus adatokat, amelyben 20 évig minden hónapban, nyugdíjcélból befizetek egy adott összeget, majd nyugdíjas éveimben havonta veszek ki belőle. Erős feltételezés, de úgy építettem fel a számítást, hogy 20 évig annyit fizetek be minden hónapban, amennyit nyugdíjasként majd ki szeretnék venni, és ezt minden hónapban ki is veszem. A vizsgált kimenetel tehát nem a megtakarítási időszak végén elért hozam lesz, hiszen a felhasználási időszakban is még lesz bent pénzem. Inkább azt vizsgáltam, hogy hány hónapig tart ki a nyugdíjas éveimben a megtakarítás.
 
-Az egészet inflációval korrigált adatokon nézem. Ez persze feltételezi, hogy a befizetéseimet is az inflációval növelem majd, és nyugdíjasként is egyre többet veszek majd ki - ahogy a megélhetési költségek is növekednek.
+Az egészet inflációval korrigált adatokon nézem. Ez persze feltételezi, hogy a befizetéseimet is az inflációval növelem majd, és nyugdíjasként is egyre többet veszek majd ki - ahogy a megélhetési költségek is növekednek. Osztalékot nem számolok.
 
 Viszonyításként, a lenti grafikon az elmúlt 90 év, inflációval korrigált index-értékei. A konkrét adatokat egy másik forrásból vettem, ahol 1870-től kezdődnek az adatok, a linket lásd lent.
 
