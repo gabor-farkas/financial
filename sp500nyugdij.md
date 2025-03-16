@@ -23,7 +23,11 @@ Megfigyelések:
 
 Természetesen egy ilyen megtakarítási forgatókönyv tényleges megvalósítása még sok más költséggel és kockázattal jár.
 
-Lenne értelme akár az adott kezdőhónapokhoz tartozó értékekhez visszaszámolni, hogy ez mekkora éves hozamú, egyenletesen kamatozó befektetéssel lenne egyenértékű, de ezeket az adatokat már nem tettem most mellé. Érdekesség volt számomra, hogy 20 évnyi megtakarítás mellett kb (infláció feletti) 3.5% fölött már egy olyan helyzet alakul ki, ahol a befektetés minden hónapban a kamataiból kitermeli a havi kifizetést.
+Ha 30 éves megtakarítási periódust veszünk, akkor már sokkal kisimultabb a grafikon. Itt 720 hónapban, tehát 60 évben vettem a nyugdíjas évek értelmezhető maximumát, ez talán túl optimista is :) Itt az látszik, hogy szintén az első világháborúban nem érte meg nyugdíjba menni, de azon túl nincs gond - bár itt is fontos, hogy a grafikon jobb oldalát már egyre jobban befolyásolnák a jövőbeli események.
+
+![](./retirement_months_360.png)
+
+Lenne értelme akár az adott kezdőhónapokhoz tartozó értékekhez visszaszámolni, hogy ez mekkora éves hozamú, egyenletesen kamatozó befektetéssel lenne egyenértékű, de ezeket az adatokat már nem tettem most mellé. Érdekesség volt számomra, hogy 20 évnyi megtakarítás mellett kb (infláció feletti) 3.5% fölött már egy olyan helyzet alakul ki, ahol a befektetés minden hónapban a kamataiból kitermeli a havi kifizetést. 30 éves megtakarítás esetén ez 2.5% körül van.
 
 Hogy ebből az elemzésből milyen következtetések vonhatók le? Hát ez jó kérdés :)
 
